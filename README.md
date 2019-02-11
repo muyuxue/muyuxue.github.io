@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 这是一个为时两年的个人计划和计划完成的博客
 
-You can use the [editor on GitHub](https://github.com/muyuxue/muyuxue.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 目标
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 减重到100斤，并度过维持和塑形
+2. 学习英语口语，单词量累计6000个，能够流利的说英语，和阅读部分英文文档
+3. 学习unity3d（客户端）和c++（或者php 或者node 后台） 并完成一个小型的u3d手游 ，然后上线
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muyuxue/muyuxue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
